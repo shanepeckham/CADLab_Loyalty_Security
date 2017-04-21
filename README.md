@@ -1,6 +1,6 @@
 # CADLab_Loyalty_Security
 
-This lab demonstrates how to secure the Loyalty Scenario lab which should be completed before this lab is attempted, it can be found here [Loyalty]
+This lab demonstrates how to secure the Loyalty Scenario lab which should be completed before this lab is attempted, it can be found here [Loyalty] (https://github.com/shanepeckham/CADLab_Loyalty)
 
 # Securing our environment
 
